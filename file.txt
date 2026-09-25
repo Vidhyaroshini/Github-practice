@@ -1,2 +1,7 @@
 Hello, I'm Vidhyaroshini from Bengaluru. I changed in Github.
+<<<<<<< HEAD
 Hello world !
+=======
+Hello world ! How are you
+
+>>>>>>> 331837ca1711bd8037bff83902762b745095a33b
